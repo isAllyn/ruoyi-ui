@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3419505 */
+  src: url('iconfont.woff2?t=1657361161082') format('woff2'),
+       url('iconfont.woff?t=1657361161082') format('woff'),
+       url('iconfont.ttf?t=1657361161082') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jian:before {
+  content: "\e643";
+}
+
+.icon-dianbuzhuoxianzhongxindian:before {
+  content: "\edda";
+}
+
+.icon-z-weixin:before {
+  content: "\e6c9";
+}
+
+.icon-dingwei:before {
+  content: "\e66d";
+}
+
+.icon-fabu:before {
+  content: "\e617";
+}
+
+.icon-guanbi:before {
+  content: "\e615";
+}
+
+.icon-zuobiao:before {
+  content: "\e6cd";
+}
+
+.icon-jinggao:before {
+  content: "\e616";
+}
+
+.icon-add-s:before {
+  content: "\e637";
+}
+
+.icon-tianjiaguanggaowei:before {
+  content: "\e600";
+}
+
+.icon-shangjiantou_huaban:before {
+  content: "\e63f";
+}
+
+.icon-bug-fill:before {
+  content: "\e60d";
+}
+
+.icon-V:before {
+  content: "\e6cc";
+}
+
+.icon-_caidan:before {
+  content: "\e827";
+}
+

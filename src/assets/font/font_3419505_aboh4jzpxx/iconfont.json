@@ -1,0 +1,107 @@
+{
+  "id": "3419505",
+  "name": "移动端个人项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "538491",
+      "name": "减",
+      "font_class": "jian",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "22383112",
+      "name": "点捕捉线中心点",
+      "font_class": "dianbuzhuoxianzhongxindian",
+      "unicode": "edda",
+      "unicode_decimal": 60890
+    },
+    {
+      "icon_id": "854678",
+      "name": "微信",
+      "font_class": "z-weixin",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "24589740",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "4880142",
+      "name": "发布",
+      "font_class": "fabu",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "19643584",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "8763666",
+      "name": "坐标",
+      "font_class": "zuobiao",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "9826664",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "1272631",
+      "name": "添加",
+      "font_class": "add-s",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "1156",
+      "name": "添加广告位",
+      "font_class": "tianjiaguanggaowei",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12754198",
+      "name": "上箭头",
+      "font_class": "shangjiantou_huaban",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "14772637",
+      "name": "bug-fill",
+      "font_class": "bug-fill",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "11753210",
+      "name": "记事本",
+      "font_class": "V",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "3885970",
+      "name": "菜单",
+      "font_class": "_caidan",
+      "unicode": "e827",
+      "unicode_decimal": 59431
+    }
+  ]
+}
